@@ -14,6 +14,7 @@ users into thinking their system has crashed.
    cd fakeBSOD
 ```
 
+
 2. **Install Python (if not installed)**
 - Make sure you have Python3 installed. You can check by running:
 
@@ -40,6 +41,7 @@ users into thinking their system has crashed.
 
 ## Screenshot
 
+![WhatsApp Image 2025-03-10 at 8 11 40 PM](https://github.com/user-attachments/assets/a3bce5b4-951e-4ece-b750-2e2e85f87bae)
 
 ## Warning
 
